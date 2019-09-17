@@ -1,5 +1,5 @@
 # hello-world
-just another repository for a newcomer
+#just another repository for a newcomer
 Hey guys, this is simply a self introduction for myself.
 Let's play a game. The following text derives from one of the madlib games. To fill in each blank, I have placed an answer decribing some of my characters. Since you have already read my introductory materials in Chinese, I guess you are capable of determining which of the answers below are true or not (probably intrepret my friend's personalities).
 
