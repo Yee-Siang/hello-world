@@ -11,7 +11,7 @@ Let's play a game. The following text derives from one of the madlib games. To f
 5.whatever edible for human beings
 6.five
 7.my father, my mother ,and my twin sister
-8.fundamentals of logic desgn
+8.fundamentals of logic design
 9.indulge in an isolated world for the rest of my life
 10.social worker
 11.it provides a promising career opportunity and it allows us to interact with people of all types of characteristics
